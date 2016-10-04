@@ -1,0 +1,66 @@
+---
+title: "<center>Juan Sebastián Vélez</center>"
+author: '<center>University of Arizona <br> Department of Economics <br> <sub>1130 East Helen Street McClelland Hall 401 <br> Phone: 520.481.89.39 <br> Website: sebastianvelez.me</sub></center>'
+date: "<center> <sub> Dec 11, 2015</center> </sub>"
+output:
+  html_document: default
+  pdf_document:
+    keep_md: yes
+---
+
+### Education
+
+**2012-2017** UNIVERSITY OF ARIZONA  
+Doctor of Philosophy in Economics (Candidate)
+
+**2012-2014** UNIVERSITY OF ARIZONA  
+Masters of Arts in Economics
+
+**2007-2011** UNIVERSIDAD DEL VALLE  
+Maestria en Economía Aplicada
+
+**2000-2005** UNIVERSIDAD DEL VALLE  
+Economista
+
+
+### Academic Employment
+**2012-2015** Teaching Assistant and Instructor, University of Arizona  
+**2009-2012** Instructor, Universidad ICESI  
+**2007-2010** Instructor, Universidad Autónoma de Occidente  
+**2006-2009** Research Assistant and Instructor, Universidad del Valle  
+
+### Teaching Experience
+**Spring 2015** Econ 460 - Industrial Organization and Regulation, Instructor  
+**Winter 2015** Econ 200 - Basic Economic Issues, Instructor  
+**Summer 2015** Econ 460 - Industrial Organization and Regulation, Instructor  
+**Summer 2014** Econ 361 - Intermediate Microeconomics, Instructor  
+**Spring 2008-Spring 2012** Macroeconomic theory 2 - Micro foundations of Macro models, Instructor  
+**Spring 2008-Spring 2012** Microeconomic theory 2 - Basic Industrial Organization, Instructor  
+**Summers of 2008-2011** Microeconomic theory 1 - Basic Micro Issues, Instructor  
+**Spring 2007-Fall 2010** Game Theory, Instructor  
+**Spring & Fall 2006 ** Migration and Development - Empirical tools for development studies, Instructor
+
+### Research Interests
+My research in Empirical Economics focuses on Inudstrial Organization and Microeconometrics. Particularly I'm intrested in the effects of mergers with complementary goods and the strategic use of bundling as a way of sustaining collusion. More broadly I'm interested in estimation of dynamic discrete choice models and computational economics.
+
+### Completed papers and Working papers
+- "Mergers with Complements: Evidence from Colombia's Telecommunications" (2015)  
+- "The Broadband Divide Revisited: Access, Speeds and Prices" (2015)  
+- "Market Concentration and Quality: The Case of Colombia's HMOS" (2014)
+
+### Publications
+- "Efecto Rebaño: Una Aproximación para Contrastar la Hipótesis de Expectativas Racionales” Sociedad y Economìa Nº 14, revista de la Facultad de Ciencias Sociales y Económicas de la Universidad del Valle.  
+- “Los Efectos de la Migración Internacional en las Condiciones de Vida de los Hogares Colombianos” Desarrollo y Sociedad N° 60 CEDE-UNIANDES (With Luis Miguel Tovar)  
+- "Que sabemos sobre migración y desarrollo económico en los paises donde se originan los flujos migratorios” Revista de Economía & Administración Vol4 N° 1 UAO
+
+### Grants and Awards
+- Don Wells Teaching Fellowship for Excellence in Teaching, University of Arizona, $1,000,
+Spring 2016
+- Thomas R. Brown Fellowship,$5,000,  2014-2015.
+- Nominee, Ed Zajac Third Year Paper Conference Prize, University of Arizona, 2015.
+
+### References
+- Gautam Gowrisankaran, Economics Department, University of Arizona, gowrisankaran@eller.arizona.edu.  
+- Stan Reynolds, Economics Department, University of Arizona, sreynold@email.arizona.edu  
+- Mo Xiao, Economics Department, University of Arizona, mxiao@email.arizona.edu  
+- Dirk G. Mateer, Economics Department, University of Arizona, dirkmateer@email.arizona.edu  
