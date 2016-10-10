@@ -54,7 +54,7 @@ My research in Empirical Economics focuses on Industrial Organization and Microe
 - "Market Concentration and Quality: The Case of Colombia's HMOS" (2014)
 
 ### Publications
-- "Efecto Rebaño: Una Aproximación para Contrastar la Hipótesis de Expectativas Racionales” Sociedad y Economìa Nº 14, revista de la Facultad de Ciencias Sociales y Económicas de la Universidad del Valle.
+- "Efecto Rebaño: Una Aproximación para Contrastar la Hipótesis de Expectativas Racionales” Sociedad y Economía Nº 14, revista de la Facultad de Ciencias Sociales y Económicas de la Universidad del Valle.
 - “Los Efectos de la Migración Internacional en las Condiciones de Vida de los Hogares Colombianos” Desarrollo y Sociedad N° 60 CEDE-UNIANDES (With Luis Miguel Tovar)  
 - "Qué sabemos sobre migración y desarrollo económico en los paises donde se originan los flujos migratorios” Revista de Economía & Administración Vol4 N° 1 UAO
 
@@ -63,10 +63,21 @@ My research in Empirical Economics focuses on Industrial Organization and Microe
 Spring 2016
 - Thomas R. Brown Fellowship,$5,000,  2014-2015.
 - Nominee, Ed Zajac Third Year Paper Conference Prize, University of Arizona, 2015.
+- Fullbright Scholarship, 2012-2015.
+
+
+
+## Software skills
+
+- Statistical: R, Matlab, Stata and Python.
+- Version control: git.
+- Writing: Markdown, Lyx and $\LaTeX$.
+
 
 ### References
 - Mo Xiao, Economics Department, University of Arizona, mxiao@email.arizona.edu
 - Gautam Gowrisankaran, Economics Department, University of Arizona, gowrisankaran@eller.arizona.edu.
 - Mauricio J. Varela, Economics Department, University of Arizona, mvarela@email.arizona.edu 
+- John Drabicki, Economics Department, University of Arizona, drabicki@email.arizona.edu
 - Stan Reynolds, Economics Department, University of Arizona, sreynold@email.arizona.edu  
  
